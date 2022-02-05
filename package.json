@@ -1,0 +1,25 @@
+{
+  "name": "mysteries-couscous",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@visx/axis": "^2.6.0",
+    "@visx/geo": "^2.1.2",
+    "@visx/scale": "^2.2.2",
+    "@weknow/react-bubble-chart-d3": "^1.0.12",
+    "csvtojson": "^2.0.10",
+    "d3": "^7.3.0",
+    "danfojs": "^1.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.7.2"
+  }
+}
