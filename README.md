@@ -1,3 +1,3 @@
 # mysteries-couscous
 
-globe
+https://mysteries-couscous.web.app/
